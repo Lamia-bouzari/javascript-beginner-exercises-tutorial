@@ -1,7 +1,8 @@
-function shortIntroduction() {
+function shortIntroduction(name, profession, age) {
+  return "Hello! my name is " + name + " my profession is " + profession + " . I am " + age + " years old.";
   // Complete this function's body and arguments
   
 }
 
 // Fill the gaps with your data in the correct order
-console.log(shortIntroduction(" ", " ", " "))
+console.log(shortIntroduction("Lamia ", "Student ", 34));
