@@ -1,21 +1,20 @@
 //Create a string variable with a sentence
-let text = "JavaScript is fun.";
+let text = "";
 
 //Print the length of the string
-console.log(text.length);
+//your code here
 
 //Print the string in uppercase and lowercase
-console.log(text.toUpperCase());
-console.log(text.toLowerCase());
+//your code here
 
 //Use indexOf() to find the position of a word
-console.log(text.indexOf("fun"));
+//your code here
 
 //Use slice() to extract part of the string
-console.log(text.slice(0, 10));
+//your code here
 
 //Use includes() to check if a word exists in the string
-console.log(text.includes("JavaScript"));
+//your code here
 
 //Use replace() to replace a word with another
-console.log(text.replace("fun", "awesome"));
+//your code here

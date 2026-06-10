@@ -1,14 +1,14 @@
 //Create an array called students with 3 names
-let students = ["Alice", "Bob", "Charlie"];
+let students = [];
 
 //Add a new student name to the end using push()
-students.push("David");
+//your code here
 
 //Remove the first student using shift()
-students.shift();
+//your code here
 
 //Print the length of the array
-console.log(students.length);
+//your code here
 
 //Print the final array
-console.log(students);
+//your code here

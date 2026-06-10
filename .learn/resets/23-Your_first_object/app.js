@@ -1,18 +1,11 @@
 //Create an object called user with at least 3 properties
-let user = {
-    name: "John",
-    age: 30,
-    email: "john@example.com"
-};
+let user = {};
 
 //Access and print each property using dot notation
 //your code here
-console.log(user.name);
-console.log(user.age);
-console.log(user.email);
 
 //Add a new property to the object
-user.city = "Miami";
+//your code here
 
 //Print the complete object
-console.log(user);
+//your code here
